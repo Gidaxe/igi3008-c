@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "getopt_posix.h": "c",
+        "tableau_double.h": "c"
+    }
+}
